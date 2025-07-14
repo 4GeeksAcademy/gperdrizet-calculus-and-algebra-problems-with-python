@@ -1,23 +1,26 @@
-<!--hide-->
-# Calculus and algebra in Python - Step by step guide
-<!--endhide-->
 
-- Complete the problems using calculus, algebra and Python.
+# Linear Regression & Optimization Assignment
 
-## 🌱 How to start this project
 
-Follow the instructions below:
+## Overview
+This project introduces students to linear regression and optimization using Python. You'll work with synthetic data to explore the relationship between attendance and grades, and implement your own optimization routine to fit a linear model.
 
-1. Create a new repository by forking the [Git project](https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python) or [by clicking here](https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/fork).
-2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
-3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
+**Note:** This is a toy example project designed to give a high-level, conceptual understanding of linear regression and optimization. It is not intended to cover the detailed mathematics or advanced techniques used in professional regression analysis.
 
-## 🚛 How to deliver this project
+## Learning Goals
+- Understand the basics of linear regression and model fitting
+- Learn how to quantify model error and optimize parameters
+- Gain hands-on experience with Python, NumPy, and Matplotlib
+- Practice writing custom functions for modeling and optimization
 
-Once you have finished solving the exercises, be sure to commit your changes, push them to your repository, and go to 4Geeks.com to upload the repository link.
+## Assignment Instructions
+1. **Open the notebook**: Navigate to `notebook/problems.ipynb`.
+2. **Complete the functions**: Implement the required functions for the linear model, error calculation, and optimizer as described in the notebook markdown cells.
+3. **Run and test**: Execute each cell to test your code and visualize results.
+4. **Analyze**: Reflect on the model's performance and optimization process in the final results section.
 
-## 📝 Instructions
-
-Once you start working on the project, you will see a `./notebook/problems.ipynb` file containing a list of exercises. Complete each of them, one by one.
-
-> Solution: https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/notebook/solutions.ipynb
+## Running in GitHub Codespaces
+1. **Fork the repository**: Click the "Fork" button at the top right of the GitHub page to create your own copy of the repository.
+2. **Open Codespace**: Launch a new Codespace from your forked repository.
+3. **Start Jupyter**: Open the notebook file (`notebook/problems.ipynb`) in VS Code's interactive editor.
+4. **Work through the notebook**: Follow the instructions and complete the assignment directly in the notebook.
