@@ -13,14 +13,12 @@ This project introduces students to optimization using Python. You'll work with 
 - Gain hands-on experience with Python, NumPy, and Matplotlib
 - Practice writing custom functions for modeling and optimization
 
-## Assignment Instructions
-1. **Open the notebook**: Navigate to `notebook/optimization.ipynb`.
-2. **Complete the functions**: Implement the required functions for the linear model, error calculation, and optimizer as described in the notebook markdown cells.
-3. **Run and test**: Execute each cell to test your code and visualize results.
-4. **Analyze**: Reflect on the model's performance and optimization process in the final results section.
-
 ## Running in GitHub Codespaces
 1. **Fork the repository**: Click the "Fork" button at the top right of the GitHub page to create your own copy of the repository.
 2. **Open Codespace**: Launch a new Codespace from your forked repository.
-3. **Start Jupyter**: Open the notebook file (`notebook/optimization.ipynb`) in VS Code's interactive editor.
-4. **Work through the notebook**: Follow the instructions and complete the assignment directly in the notebook.
+
+## Assignment Instructions
+1. **Open the notebook**: Navigate to `optimization.ipynb`.
+2. **Complete the functions**: Implement the required functions for the linear model, error calculation, and optimizer as described in the notebook markdown cells.
+3. **Run and test**: Execute each cell to test your code and visualize results.
+4. **Analyze**: Reflect on the model's performance and optimization process in the final results section.
