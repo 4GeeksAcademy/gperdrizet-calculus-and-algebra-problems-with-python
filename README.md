@@ -18,7 +18,7 @@ This project introduces students to optimization using Python. You'll work with 
 2. **Open Codespace**: Launch a new Codespace from your forked repository.
 
 ## Assignment Instructions
-1. **Open the notebook**: Navigate to `optimization.ipynb`.
+1. **Open the notebook**: Navigate to [`optimization.ipynb`](https://github.com/4GeeksAcademy/gperdrizet-optimization-bonus-assignment/blob/main/optimization.ipynb).
 2. **Complete the functions**: Implement the required functions for the linear model, error calculation, and optimizer as described in the notebook markdown cells.
 3. **Run and test**: Execute each cell to test your code and visualize results.
 4. **Analyze**: Reflect on the model's performance and optimization process in the final results section.
