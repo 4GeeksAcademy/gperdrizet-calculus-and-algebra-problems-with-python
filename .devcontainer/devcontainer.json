@@ -16,5 +16,6 @@
 			"streetsidesoftware.code-spell-checker"
 		]
 	  }
-	}
+	},
+	"postAttachCommand": "htop"
 }
