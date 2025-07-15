@@ -6,11 +6,14 @@
 	"onCreateCommand": "pip3 install --user -r requirements.txt",
 	"customizations": {
 	  "vscode": {
+		"settings": {
+			"jupyter.kernels.excludePythonEnvironments": ["/usr/bin/python3"]
+		},
 		"extensions": [
 			"-dbaeumer.vscode-eslint",
 			"ms-python.python",
 			"ms-toolsai.jupyter",
-			"streetsidesoftware.code-spell-checker",
+			"streetsidesoftware.code-spell-checker"
 		]
 	  }
 	}
